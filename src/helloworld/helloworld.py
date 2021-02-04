@@ -22,6 +22,7 @@ def main():
     William Fung
     Sam Vasquez
     Isabelle Augensen
+    Emil Balian
 <<<<<<< HEAD
     Emeline Fromont
 =======

@@ -12,8 +12,8 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling
-    Isabelle Augensen
+    Joel S. Welling,
+    Isabelle Augensen,
     Nico Ortiz de Zárate
     """)
 

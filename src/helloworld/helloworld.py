@@ -13,6 +13,7 @@ def main():
     print("""
     Hello World, from...
     Joel S. Welling
+    Duy Hoang
     """)
 
 if __name__ == "__main__":

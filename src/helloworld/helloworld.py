@@ -14,6 +14,7 @@ def main():
     Hello World, from...
     Joel S. Welling
     Isabelle Augensen
+    Nico Ortiz de Zárate
     """)
 
 if __name__ == "__main__":

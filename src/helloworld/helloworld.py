@@ -8,6 +8,8 @@ from __future__ import print_function
 import six
 
 # I added this change while creating the for_group1 branch
+# I added this change while creating the for_group2 branch
+
 
 def main():
     print("""
@@ -15,10 +17,14 @@ def main():
     Joel S. Welling
     Matt Ho
     Duy Hoang
+    William Fung
+    Sam Vasquez
+    Isabelle Augensen
+    Emeline Fromont :)
+    Nico Ortiz de Zárate
     Oh no!
     William Fung'
     Changed for pull request - Duy
-
     """)
 
 if __name__ == "__main__":

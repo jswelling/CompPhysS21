@@ -15,7 +15,8 @@ def main():
     Joel S. Welling
     Matt Ho
     Duy Hoang
-    William Fung
+    William Fung'
+    Changed for pull request - Duy
     """)
 
 if __name__ == "__main__":

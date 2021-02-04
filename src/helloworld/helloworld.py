@@ -16,6 +16,7 @@ def main():
     Matt Ho
     Duy Hoang
     William Fung
+    Sam Vasquez
     """)
 
 if __name__ == "__main__":

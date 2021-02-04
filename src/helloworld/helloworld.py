@@ -14,7 +14,11 @@ def main():
     Hello World, from...
     Joel S. Welling
     Isabelle Augensen
+<<<<<<< HEAD
     Emeline Fromont
+=======
+    Nico Ortiz de Zárate
+>>>>>>> 4ba4265f54740d8a43b5636ce94a16c9b291d6d4
     """)
 
 if __name__ == "__main__":

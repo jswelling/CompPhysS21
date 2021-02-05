@@ -13,7 +13,8 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling
+    Joel S. Welling,
+    Isabelle Augensen,
     Matt Ho
     Duy Hoang
     Priya Guntur

@@ -29,6 +29,7 @@ def main():
     Nico Ortiz de Zárate
     Oh no!
     William Fung'
+    Rushan Jiang
     Changed for pull request - Duy
     """)
 

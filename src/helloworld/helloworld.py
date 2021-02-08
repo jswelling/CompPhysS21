@@ -21,6 +21,8 @@ def main():
     Matt Ho
     Duy Hoang
     Priya Guntur
+    Paul Grey
+    Rushan Jiang
     William Fung
     Sam Vasquez
     Isabelle Augensen
